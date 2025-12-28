@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Top%20Languages-JS%2FTS%20%7C%20Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top%20Languages-JS%7C%20-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contact-omobatife@gmail.com-yellow?style=for-the-badge" />
 </p>
 
